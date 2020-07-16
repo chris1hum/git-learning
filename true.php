@@ -1,5 +1,5 @@
 <?php
-$var1 = true;
+$var1 = false;
 
 if ($var1) {
 	echo 'This is true';
